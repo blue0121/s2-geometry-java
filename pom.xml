@@ -14,7 +14,7 @@
 		
 		<!-- core -->
 		<guava.version>21.0</guava.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		
 		<!-- maven plugins -->
 		<compiler.version>3.8.1</compiler.version>
